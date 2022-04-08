@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @L3kish
 - 👀 I’m interested in AI
-- 🌱 I’m currently learning JS
+- 🌱 I’m currently learning Unity, UE5, C++, C#...
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me L3kish@outlook.com
 
